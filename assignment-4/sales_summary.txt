@@ -1,0 +1,6 @@
+===== SALES SUMMARY =====
+
+Total Sales : 16330
+Average Sales : 2041.25
+Highest Sale : 5000
+Lowest Sale : 450
